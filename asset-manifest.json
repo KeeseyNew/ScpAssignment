@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ScpAssignment/static/js/main.15535b83.chunk.js",
+    "main.js.map": "/ScpAssignment/static/js/main.15535b83.chunk.js.map",
+    "runtime-main.js": "/ScpAssignment/static/js/runtime-main.77d2fd6f.js",
+    "runtime-main.js.map": "/ScpAssignment/static/js/runtime-main.77d2fd6f.js.map",
+    "static/js/2.6bc28d4d.chunk.js": "/ScpAssignment/static/js/2.6bc28d4d.chunk.js",
+    "static/js/2.6bc28d4d.chunk.js.map": "/ScpAssignment/static/js/2.6bc28d4d.chunk.js.map",
+    "index.html": "/ScpAssignment/index.html",
+    "static/js/2.6bc28d4d.chunk.js.LICENSE.txt": "/ScpAssignment/static/js/2.6bc28d4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77d2fd6f.js",
+    "static/js/2.6bc28d4d.chunk.js",
+    "static/js/main.15535b83.chunk.js"
+  ]
+}
